@@ -6,4 +6,4 @@ Two users: "admin" and "user".
 User has viewing rights, while admin can add, edit and remove movies from the database.
 
 Live version hosted on my website: [My Movie Collection](http://renki.dy.fi:8080/movieCollection/)    
-Password for the user is userpassword123.
+Password for the user is userpass123.
